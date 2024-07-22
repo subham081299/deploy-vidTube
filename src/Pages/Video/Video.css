@@ -1,0 +1,15 @@
+.play-container{
+    background: #f9f9f9;
+    padding: 20px 2% 20px 2%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+/**Responsive for small screen*/
+/**Responsive for small screen */
+@media (max-width:900px) {
+    .play-container{
+        padding: 0 5%;
+    }
+}
